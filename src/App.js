@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Switch>
-          <Route exact path="/login" component={Login} />
+          <Route path="/login" component={Login} />
           <Route exact path="/react-user-demo/" component={Signup} />
         </Switch>
 
