@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div className="App">
         <Switch>
-          <Route exact path="/login" component={Login} />
-          <Route exact path="/" component={Signup} />
+          <Route exact path="/react-user-demo/login" component={Login} />
+          <Route exact path="/react-user-demo/" component={Signup} />
         </Switch>
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"
