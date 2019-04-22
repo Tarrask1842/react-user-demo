@@ -31,7 +31,7 @@ class Signup extends Component {
             </Form>
           </Card.Body>
           <Card.Footer id="footer">
-            <div className="ftr">Already have an account?<Link to="react-user-demo/login"> Log In</Link></div>
+            <div className="ftr">Already have an account?<Link to="login"> Log In</Link></div>
           </Card.Footer>
         </Card>   
       </div>           
