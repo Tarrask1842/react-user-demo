@@ -2,7 +2,7 @@
   "name": "react-tile-move",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tarrasque18/react-user-demo/",
+  "homepage": "https://Tarrasque18.github.io/react-user-demo/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
