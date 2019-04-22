@@ -1,13 +1,13 @@
 {
-  "main.css": "/Tarrasque18/react-user-demo/static/css/main.3bea6aaf.chunk.css",
-  "main.js": "/Tarrasque18/react-user-demo/static/js/main.0a478b85.chunk.js",
-  "main.js.map": "/Tarrasque18/react-user-demo/static/js/main.0a478b85.chunk.js.map",
-  "runtime~main.js": "/Tarrasque18/react-user-demo/static/js/runtime~main.cc74933c.js",
-  "runtime~main.js.map": "/Tarrasque18/react-user-demo/static/js/runtime~main.cc74933c.js.map",
-  "static/js/2.78d89337.chunk.js": "/Tarrasque18/react-user-demo/static/js/2.78d89337.chunk.js",
-  "static/js/2.78d89337.chunk.js.map": "/Tarrasque18/react-user-demo/static/js/2.78d89337.chunk.js.map",
-  "index.html": "/Tarrasque18/react-user-demo/index.html",
-  "precache-manifest.2e8a974b4f26b6c83dbd836550fbf0b6.js": "/Tarrasque18/react-user-demo/precache-manifest.2e8a974b4f26b6c83dbd836550fbf0b6.js",
-  "service-worker.js": "/Tarrasque18/react-user-demo/service-worker.js",
-  "static/css/main.3bea6aaf.chunk.css.map": "/Tarrasque18/react-user-demo/static/css/main.3bea6aaf.chunk.css.map"
+  "main.css": "/react-user-demo/static/css/main.3bea6aaf.chunk.css",
+  "main.js": "/react-user-demo/static/js/main.5e4b4e7a.chunk.js",
+  "main.js.map": "/react-user-demo/static/js/main.5e4b4e7a.chunk.js.map",
+  "runtime~main.js": "/react-user-demo/static/js/runtime~main.000753f2.js",
+  "runtime~main.js.map": "/react-user-demo/static/js/runtime~main.000753f2.js.map",
+  "static/js/2.78d89337.chunk.js": "/react-user-demo/static/js/2.78d89337.chunk.js",
+  "static/js/2.78d89337.chunk.js.map": "/react-user-demo/static/js/2.78d89337.chunk.js.map",
+  "index.html": "/react-user-demo/index.html",
+  "precache-manifest.66c44ea5399eadeb2979d4fd140dcf9b.js": "/react-user-demo/precache-manifest.66c44ea5399eadeb2979d4fd140dcf9b.js",
+  "service-worker.js": "/react-user-demo/service-worker.js",
+  "static/css/main.3bea6aaf.chunk.css.map": "/react-user-demo/static/css/main.3bea6aaf.chunk.css.map"
 }
