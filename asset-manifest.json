@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-user-demo/login/static/css/main.3bea6aaf.chunk.css",
-  "main.js": "/react-user-demo/login/static/js/main.01f9803a.chunk.js",
-  "main.js.map": "/react-user-demo/login/static/js/main.01f9803a.chunk.js.map",
-  "runtime~main.js": "/react-user-demo/login/static/js/runtime~main.b657570a.js",
-  "runtime~main.js.map": "/react-user-demo/login/static/js/runtime~main.b657570a.js.map",
-  "static/js/2.78d89337.chunk.js": "/react-user-demo/login/static/js/2.78d89337.chunk.js",
-  "static/js/2.78d89337.chunk.js.map": "/react-user-demo/login/static/js/2.78d89337.chunk.js.map",
-  "index.html": "/react-user-demo/login/index.html",
-  "precache-manifest.73cd7c8bc9ca5a369dd37a055e936af3.js": "/react-user-demo/login/precache-manifest.73cd7c8bc9ca5a369dd37a055e936af3.js",
-  "service-worker.js": "/react-user-demo/login/service-worker.js",
-  "static/css/main.3bea6aaf.chunk.css.map": "/react-user-demo/login/static/css/main.3bea6aaf.chunk.css.map"
+  "main.css": "/react-user-demo/static/css/main.3bea6aaf.chunk.css",
+  "main.js": "/react-user-demo/static/js/main.76233668.chunk.js",
+  "main.js.map": "/react-user-demo/static/js/main.76233668.chunk.js.map",
+  "runtime~main.js": "/react-user-demo/static/js/runtime~main.000753f2.js",
+  "runtime~main.js.map": "/react-user-demo/static/js/runtime~main.000753f2.js.map",
+  "static/js/2.78d89337.chunk.js": "/react-user-demo/static/js/2.78d89337.chunk.js",
+  "static/js/2.78d89337.chunk.js.map": "/react-user-demo/static/js/2.78d89337.chunk.js.map",
+  "index.html": "/react-user-demo/index.html",
+  "precache-manifest.bb21e9868fa8c2785966943a6008649c.js": "/react-user-demo/precache-manifest.bb21e9868fa8c2785966943a6008649c.js",
+  "service-worker.js": "/react-user-demo/service-worker.js",
+  "static/css/main.3bea6aaf.chunk.css.map": "/react-user-demo/static/css/main.3bea6aaf.chunk.css.map"
 }
