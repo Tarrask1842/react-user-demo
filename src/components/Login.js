@@ -27,7 +27,7 @@ class Login extends Component {
             </Form>
           </Card.Body>
           <Card.Footer>
-            <div className="ftr">Not a Member?<Link to=""> Sign Up</Link></div>
+            <div className="ftr">Not a Member?<Link to="/"> Sign Up</Link></div>
           </Card.Footer>
         </Card>   
       </div>   
